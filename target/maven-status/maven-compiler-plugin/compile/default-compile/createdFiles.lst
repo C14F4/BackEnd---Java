@@ -26,6 +26,7 @@ com\ciafa\portfolio\controller\ExperienciaController.class
 com\ciafa\portfolio\security\User.class
 com\ciafa\portfolio\service\PerfilService.class
 com\ciafa\portfolio\service\EducacionService.class
+com\ciafa\portfolio\WebConfig.class
 com\ciafa\portfolio\model\Proyectos.class
 com\ciafa\portfolio\repository\PerfilRepository.class
 com\ciafa\portfolio\model\Educacion.class
