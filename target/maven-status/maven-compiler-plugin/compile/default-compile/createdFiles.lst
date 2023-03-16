@@ -1,4 +1,3 @@
-com\ciafa\portfolio\webConfig.class
 com\ciafa\portfolio\security\LoginFilter.class
 com\ciafa\portfolio\model\Perfil.class
 com\ciafa\portfolio\repository\EducacionRepository.class
