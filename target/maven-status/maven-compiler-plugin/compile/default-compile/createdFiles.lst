@@ -3,6 +3,7 @@ com\ciafa\portfolio\model\Perfil.class
 com\ciafa\portfolio\repository\EducacionRepository.class
 com\ciafa\portfolio\security\SecurityConfig.class
 com\ciafa\portfolio\repository\SkillRepository.class
+com\ciafa\portfolio\PortfolioApplication$1.class
 com\ciafa\portfolio\service\ISkillService.class
 com\ciafa\portfolio\controller\ProyectosController.class
 com\ciafa\portfolio\model\Experiencia.class
@@ -26,7 +27,6 @@ com\ciafa\portfolio\controller\ExperienciaController.class
 com\ciafa\portfolio\security\User.class
 com\ciafa\portfolio\service\PerfilService.class
 com\ciafa\portfolio\service\EducacionService.class
-com\ciafa\portfolio\WebConfig.class
 com\ciafa\portfolio\model\Proyectos.class
 com\ciafa\portfolio\repository\PerfilRepository.class
 com\ciafa\portfolio\model\Educacion.class
