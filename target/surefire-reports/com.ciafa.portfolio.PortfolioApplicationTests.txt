@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.ciafa.portfolio.PortfolioApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 64.816 s - in com.ciafa.portfolio.PortfolioApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 58.228 s - in com.ciafa.portfolio.PortfolioApplicationTests
