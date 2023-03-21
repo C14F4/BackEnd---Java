@@ -14,8 +14,8 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-//import org.springframework.web.bind.annotation.CrossOrigin;
-//@CrossOrigin
+import org.springframework.web.bind.annotation.CrossOrigin;
+@CrossOrigin (origins = "https://ap-portfolio-c14f4-aa434.web.app/")
 
 @RestController
 public class ExperienciaController {
